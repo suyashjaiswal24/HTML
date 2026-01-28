@@ -13,7 +13,7 @@ and correct use of HTML elements.
 ---
 
 ## 📂 Project Structure
-resume-website/
+HTML/
 │── index.html
 │── README.md
 │── image.png
