@@ -38,7 +38,7 @@ resume-website/
 ---
 
 ## 🖼 Screenshot
-
+![Screenshot](image.png)
 
 ---
 
