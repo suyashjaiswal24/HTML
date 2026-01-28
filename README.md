@@ -38,7 +38,7 @@ resume-website/
 ---
 
 ## 🖼 Screenshot
-![Screenshot of Resume Assignment](image.png)
+
 
 ---
 
